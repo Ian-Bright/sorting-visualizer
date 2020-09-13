@@ -7,3 +7,7 @@ This project aims to take a unique approach to the popular personal project that
 ## Note
 
 Setting the speed to the maximum setting may cause your browser to lag and not display spheres cleanly
+
+## Link to Live Demo
+
+https://ian-bright.github.io/sorting-visualizer/
