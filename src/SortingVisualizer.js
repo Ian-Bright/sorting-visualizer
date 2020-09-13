@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import { shadows } from "@material-ui/system"
 import { Box } from '@material-ui/core'
 import bubbleSort from './algorithms/bubble-sort'
 import insertionSort from './algorithms/insertion-sort'
